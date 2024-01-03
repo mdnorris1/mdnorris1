@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/mdnorris1/ActiveDirectoryLab)
   - [FIM (File Integrity Monitor)](https://github.com/mdnorris1/PowerShellIntegrityFIM)
 - 
