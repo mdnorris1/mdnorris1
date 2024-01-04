@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/mdnorris1/Active-Directory-Lab/)
-  - [FIM (File Integrity Monitor)](https://github.com/mdnorris1/PowerShellIntegrityFIM)
+  - [Nessus Vulnerability Management Lab](https://github.com/mdnorris1/)
 - 
 <h3> 🤳 Connect with me:</h2>
 
