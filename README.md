@@ -10,6 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+  - [Wireshark Lab](https://github.com/mdnorris1/WiresharkLab)
   - [Linux CLI Lab](https://github.com/mdnorris1/LinuxCLILab)
   - [Nessus Vulnerability Management Lab](https://github.com/mdnorris1/NessusVulnerabilityLab)
 
@@ -26,6 +27,6 @@ https://linkedin.com/in/martinnorris1
 
 <body id="top" class="ss-preload">
 
-- 🌱 I’m currently learning CISMP, Certified in Cybersecurity (CC)
+🌱 I’ve recently certified in CISMP and ISC2 Certified in Cybersecurity (CC).
 
 --></h>
