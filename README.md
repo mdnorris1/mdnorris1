@@ -13,7 +13,8 @@
   - [Wireshark Lab](https://github.com/mdnorris1/WiresharkLab)
   - [Linux CLI Lab](https://github.com/mdnorris1/LinuxCLILab)
   - [Nessus Vulnerability Management Lab](https://github.com/mdnorris1/NessusVulnerabilityLab)
-
+  - [Deep Blue CLI Tool Lab](https://github.com/mdnorris1/DeepBlueCLILab)
+    
 <h3> 🤳 Connect with me:</h2>
     <!-- mobile specific metas
     ================================================== -->
