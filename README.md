@@ -13,7 +13,7 @@
 <h2>👨‍💻 Network Analysis/Threat Hunting</h2>
 
   - [Wireshark Lab](https://github.com/mdnorris1/WiresharkLab)
-  - [Nmap Lab](https://github.com/mdnorris1/WiresharkLab)
+  - [Nmap Lab](https://github.com/mdnorris1/NmapLab)
   - [Linux CLI Lab](https://github.com/mdnorris1/LinuxCLILab)
   - [Deep Blue CLI Tool Lab](https://github.com/mdnorris1/DeepBlueCLILab)
     
