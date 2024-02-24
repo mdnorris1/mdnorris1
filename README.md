@@ -3,17 +3,25 @@
 <html class="no-js" lang="en">
 <head>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>Cybersecurity Projects:</h1>
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="author" content="">
 
+<h2>👨‍💻 Network Analysis/Threat Hunting</h2>
+
   - [Wireshark Lab](https://github.com/mdnorris1/WiresharkLab)
+  - [Nmap Lab](https://github.com/mdnorris1/WiresharkLab)
   - [Linux CLI Lab](https://github.com/mdnorris1/LinuxCLILab)
-  - [Nessus Vulnerability Management Lab](https://github.com/mdnorris1/NessusVulnerabilityLab)
   - [Deep Blue CLI Tool Lab](https://github.com/mdnorris1/DeepBlueCLILab)
+    
+<h2>👨‍💻 Vulnerability Management</h2>
+
+  - [Nessus Vulnerability Management Lab](https://github.com/mdnorris1/NessusVulnerabilityLab)
+
+ 
     
 <h3> 🤳 Connect with me:</h2>
     <!-- mobile specific metas
