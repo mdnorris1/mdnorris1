@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-<h2>👨‍💻 SIEM/Log Analysis</h2>
+<h2>⚡ SIEM/Log Analysis</h2>
 
  - [Splunk Lab](https://github.com/mdnorris1/SplunkLab)
 
