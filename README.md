@@ -10,6 +10,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+<h2>👨‍💻 SIEM/Log Analysis</h2>
+
+ - [Splunk Lab](https://github.com/mdnorris1/SplunkLab)
+
 <h2>👨‍💻 Network Analysis/Threat Hunting</h2>
 
   - [Wireshark Lab](https://github.com/mdnorris1/WiresharkLab)
