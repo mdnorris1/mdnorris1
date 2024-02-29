@@ -29,7 +29,13 @@
 
   - [Nessus Vulnerability Management Lab](https://github.com/mdnorris1/NessusVulnerabilityLab)
 
+
+
  
+<h2>👨‍💻 Cloud computing and GRC </h2>
+
+  - [Microsoft 365 Lab](https://github.com/mdnorris1/Microsoft365Lab)
+
     
 <h3> 🤳 Connect with me:</h2>
     <!-- mobile specific metas
