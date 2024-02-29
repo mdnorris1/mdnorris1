@@ -31,10 +31,9 @@
 
 
 
- 
 <h2>👨‍💻 Cloud computing and GRC </h2>
 
-  - [Microsoft 365 Lab](https://github.com/mdnorris1/Microsoft365Lab)
+  - [Microsoft 365 Lab](https://github.com/mdnorris1/Microsoft365)
 
     
 <h3> 🤳 Connect with me:</h2>
