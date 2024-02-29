@@ -10,6 +10,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+<h1>🛡️ Blue Team</h1>
+<br>
+
 <h2>⚡ SIEM & Log Analysis</h2>
 
  - [Splunk Lab](https://github.com/mdnorris1/SplunkLab)
@@ -35,7 +38,7 @@
 
   - [Microsoft 365 Lab](https://github.com/mdnorris1/Microsoft365)
 
-    
+<br>    
 <h3> 🤳 Connect with me:</h2>
     <!-- mobile specific metas
     ================================================== -->
