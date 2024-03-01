@@ -38,10 +38,15 @@
 
 <br>
 
-<h2>👨‍💻 Cloud computing and GRC </h2>
+<h1>👨‍💻 Cloud computing and GRC </h1>
+<br>
+<h2>👨‍💻 Microsoft 365, Purview and GRC </h2>
 
   - [Microsoft 365 Lab](https://github.com/mdnorris1/Microsoft365)
-  - 
+
+<h2>👨‍💻 Risk Assessment</h2>
+
+  - [Risk Assessment](https://github.com/mdnorris1/RiskAssessment)
 
 <br>    
 <h3> 🤳 Connect with me:</h2>
