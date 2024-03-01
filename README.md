@@ -38,7 +38,7 @@
 
 <br>
 
-<h1>👨‍💻 Cloud computing and GRC </h1>
+<h1> Cloud computing and GRC </h1>
 <br>
 <h2>👨‍💻 Microsoft 365, Purview and GRC </h2>
 
