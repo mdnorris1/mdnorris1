@@ -48,6 +48,10 @@
 
   - [Risk Assessment](https://github.com/mdnorris1/RiskAssessment)
 
+<h2>👨‍💻 Small and Medium-sized business Security Audit</h2>
+
+  - [Security Audit](https://github.com/mdnorris1/SecurityAudit)
+
 <br>    
 <h3> 🤳 Connect with me:</h2>
     <!-- mobile specific metas
