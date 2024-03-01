@@ -48,7 +48,7 @@
 
   - [Risk Assessment](https://github.com/mdnorris1/RiskAssessment)
 
-<h2>👨‍💻 Small and Medium-sized business Security Audit</h2>
+<h2>👨‍💻 Small and Medium-sized business Security and Compliance Audit</h2>
 
   - [Security Audit](https://github.com/mdnorris1/SecurityAudit)
 
