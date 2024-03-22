@@ -16,6 +16,7 @@
 <h2>⚡ SIEM & Log Analysis</h2>
 
  - [Splunk Lab](https://github.com/mdnorris1/SplunkLab)
+ - [Sentinel Lab](https://github.com/mdnorris1/SentinelLab)
 
 <h2>👨‍💻 Network Analysis & Threat Hunting</h2>
 
