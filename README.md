@@ -45,6 +45,10 @@
 
   - [Microsoft 365 Lab](https://github.com/mdnorris1/Microsoft365)
 
+<h2>👨‍💻 Google Cloud Associate Engineer </h2>
+
+  - [Google Cloud Labs](https://github.com/mdnorris1/GoogleCloud)
+
 <h2>👨‍💻 Risk Assessment</h2>
 
   - [Risk Assessment](https://github.com/mdnorris1/RiskAssessment)
