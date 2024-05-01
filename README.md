@@ -37,6 +37,9 @@
 
   - [Nessus Vulnerability Management Lab](https://github.com/mdnorris1/NessusVulnerabilityLab)
 
+<h2>👨‍💻 Encryption </h2>
+
+  - [Encryption Lab](https://github.com/mdnorris1/EncryptionLab)
 <br>
 
 <h1>🌐 Cloud computing and GRC </h1>
