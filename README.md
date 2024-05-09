@@ -45,6 +45,7 @@
 
   - [Active Directory Lab](https://github.com/mdnorris1/ActiveDirectoryLabs)
 
+  - [Hardening Authentication Lab](https://github.com/mdnorris1/HardeningAuthentication)
 
 <h1>🌐 Cloud computing and GRC </h1>
 <br>
