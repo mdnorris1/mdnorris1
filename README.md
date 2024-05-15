@@ -40,7 +40,15 @@
 <h2>👨‍💻 Encryption </h2>
 
   - [Encryption Lab](https://github.com/mdnorris1/EncryptionLab)
+  - 
 <br>
+<h2>👨‍💻 Networks/Firewall </h2>
+
+  - [Encryption Lab](https://github.com/mdnorris1/FirewallLab)
+  - 
+
+
+
 <h2>👨‍💻 Identity and Access Management (IAM) </h2>
 
   - [Active Directory Lab](https://github.com/mdnorris1/ActiveDirectoryLabs)
