@@ -44,7 +44,7 @@
 <br>
 <h2>👨‍💻 Networks/Firewall </h2>
 
-  - [Encryption Lab](https://github.com/mdnorris1/FirewallLab)
+  - [Firewall Lab](https://github.com/mdnorris1/FirewallLab)
   - 
 
 
