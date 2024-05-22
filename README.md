@@ -46,7 +46,7 @@
 
   - [Firewall Lab](https://github.com/mdnorris1/FirewallLab)
   - [Remote access VPN Lab](https://github.com/mdnorris1/RemoteAccessVPNLab)
-  - [Router Security](https://github.com/mdnorris1/RouterSecurityLab)
+  - [Router Security](https://github.com/mdnorris1/Routersecurity)
 
 
 
