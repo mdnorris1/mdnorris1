@@ -25,6 +25,10 @@
   - [Linux CLI Lab](https://github.com/mdnorris1/LinuxCLILab)
   - [Deep Blue CLI Tool Lab](https://github.com/mdnorris1/DeepBlueCLILab)
 
+<h2>👨‍💻 IDS/IPS</h2>
+
+  - [Suricata Lab](https://github.com/mdnorris1/Suricata)
+    
 <h2>👨‍💻 Incident Response</h2>
 
   - [ATT&CK Report and Incident Response](https://github.com/mdnorris1/ATTACKReportandIR)
