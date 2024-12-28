@@ -23,6 +23,7 @@
   - [Wireshark Lab](https://github.com/mdnorris1/WiresharkLab)
   - [Nmap Lab](https://github.com/mdnorris1/NmapLab)
   - [Linux CLI Lab](https://github.com/mdnorris1/LinuxCLILab)
+  - [Linux Logs Lab](https://github.com/mdnorris1/LinuxLogsLab)
   - [Deep Blue CLI Tool Lab](https://github.com/mdnorris1/DeepBlueCLILab)
 
 <h2>👨‍💻 IDS/IPS</h2>
